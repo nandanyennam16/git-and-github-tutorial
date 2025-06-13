@@ -11,3 +11,8 @@ This is a simple tutorial project to learn Git and GitHub basics.
 - Visit aunt
 - Apply for remote jobs
 - Practice code
+- Complete internship task
+- Practice chess openings
+- Solve chess puzzles
+- Check exam schedule
+- Branch Cutting
